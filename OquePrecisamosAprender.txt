@@ -1,13 +1,13 @@
 CLASSE POOMON VAI TER
-nome (começando com G gigatonico, giygas, gobsonSlayer/gugo, galdemeri, ginchester)
-imagem (4 para cada POOmon)
-história
-energia vital
-ataques
+nome (Gosnaldomon, Grossomon, (Gerson, só gerson mesmo))
+imagem (4 para cada POOmon, andrei edições "ele tem um MacBook Pro, ele é obrigado a saber editar")
+história (fazendo)
+energia vital (500 iniciais com mais 50 cada batalha ganha)
+ataques (3 ataques, básico, agressivo e cruel)
 ambiete originário (terra, água ou ar)
 
 MÉTODOS
-ataque com validações
+ataque rândomico com validações 
 numero random
 ganhar
 eliminado
@@ -23,3 +23,4 @@ ITENS A SEREM APRENDIDOS
 - Aprender a extrair/armazenar as informações de várias execuções do software, não só de uma
 - Aprender a gerar o arquivo txt (log)
 - Relembrar a criar o arquivo .jar
+- Interação entre objetos
