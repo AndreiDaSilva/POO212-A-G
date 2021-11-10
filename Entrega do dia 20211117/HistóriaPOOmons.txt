@@ -1,0 +1,32 @@
+POOmonH: 
+Nome: Gosnaldomon
+História: Pai de familia, divorciado, três filhos, entrou na richa de animais para ganhar algum sustento
+pois sua mulher tem cancêr, e cansou de trabalhar como desentortador de vidro, apesar de sua principal habilidade
+é de ser pedreiro de lego. (Atualmente casado com Paulo-Guinamon)
+Imagem: andrei (Saudável, Cansado, Exausto e Morto)
+Ataque: 
+ - Básico
+ - Agressivo
+ - Cruel
+Ambiente: Água
+
+POOmonA:
+Nome: Grossomon
+História: Comumente ele é grosso e é encontrado em todas as familias brasileiras.
+Se você fizer uma pergunta besta por acidente, é movito de gatilho e ele ficará com raiva.
+Imagem: andrei (Saudável, Cansado, Exausto e Morto)
+Ataque: 
+ - Básico
+ - Agressivo
+ - Cruel
+Ambiente: Ar
+
+POOmonT:
+Nome: Gerson, só gerson mesmo
+História: Gerson era um POOmon comum, chamado gerson, até que um dia, gerson não fez nada, pois ele era só gerson.
+Imagem: andrei (Saudável, Cansado, Exausto e Morto)
+Ataque: 
+ - Básico
+ - Agressivo
+ - Cruel
+Ambiente: Terra
