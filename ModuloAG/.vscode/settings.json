@@ -1,0 +1,10 @@
+{
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar"
+        ],
+        "exclude": [
+            "/ModuloAG/C:/Users/leo_n/Downloads/moduloA.jar"
+        ]
+    }
+}
